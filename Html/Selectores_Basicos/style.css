@@ -1,0 +1,19 @@
+*{
+    background-color: lightpink;
+}
+
+div{
+    background-color: lightseagreen;
+}
+
+.clase1{
+    color: purple;
+}
+
+#id1{
+    color: blue;
+}
+
+a[href="https://kahoot.com/es/"]{
+    background-color: lightcoral;
+}

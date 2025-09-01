@@ -1,0 +1,65 @@
+p{
+    color: blue;
+}
+
+h2{
+    font-size: 80px;
+}
+
+.destacado{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#miElemento{
+    border: 2px solid red;
+    font-style: italic;
+}
+
+a[href="https://kahoot.com/es/"]{
+    color: lightcoral;
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+    padding: 8px;
+    font-size: 16px;
+    background-color: red;
+}
+
+a:hover{
+    color: white;
+}
+
+a:hover{
+    cursor: pointer;
+}
+
+//a:visited {
+    //color: black;
+//}
+
+input[type="text"] {
+      border: 2px solid blue;
+      padding: 8px;
+      font-size: 16px;
+      background-color: red;
+}
+
+*{
+    background-color: gray;
+}
+
+.container > li{
+    color: green;
+}
+
+p + p{
+    color: orange;
+}
+
+.container p ~ p{
+    color: gold;
+}
+
+
